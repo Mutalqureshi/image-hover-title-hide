@@ -1,0 +1,1 @@
+# image-hover-title-hide
